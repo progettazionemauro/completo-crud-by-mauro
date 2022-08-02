@@ -25,6 +25,11 @@ Vedere qui: https://shritam.medium.com/google-sheets-a-database-c4e3fef6e0bc
 
 7) streamlit run myfile.py
 
+
+GH:
+a) inizializzare git in VSC
+b) effettuare il committ
+c) creare nella root il file .gitignore ed inserire env e .git
 PROVA PULL
 
 
