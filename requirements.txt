@@ -1,0 +1,5 @@
+pandas==1.4.3
+google_api_python_client
+protobuf==3.20.1
+streamlit==1.11.0
+click==8.1.3
