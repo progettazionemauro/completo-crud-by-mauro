@@ -40,3 +40,5 @@ Quindi porvare con git merge --abort e poi nuovamente con git pull
 
 Vedere rif regex: https://pythex.org/ e https://regex101.com/r/CSJbzT/1
 Anche se sembra funzionare non funziona!!: https://regex101.com/r/SZ2k0F/1
+
+Ora faccio il push
