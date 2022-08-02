@@ -31,6 +31,11 @@ a) inizializzare git in VSC
 b) effettuare il committ
 c) creare nella root il file .gitignore ed inserire env e .git
 PROVA PULL
+d) a volte va in chash git - Quindi utilizzare il seguente esempio
+error: Il merge non è stato concluso (esiste MERGE_HEAD).
+suggerimento: Esegui il commit delle modifiche prima di eseguire il merge.
+fatal: Esco a causa di un merge non terminato.
+Quindi porvare con git merge --abort e poi nuovamente con git pull
 
 
 Vedere rif regex: https://pythex.org/ e https://regex101.com/r/CSJbzT/1
