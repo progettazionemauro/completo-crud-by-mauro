@@ -58,7 +58,7 @@ def get_data(gsheet_connector) -> pd.DataFrame:
 
     df = pd.DataFrame(values["values"])
     df.columns = df.iloc[0]
-    df = df[1:]
+    df = df[1:3]
     return df
 
 
